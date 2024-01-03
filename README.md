@@ -47,7 +47,7 @@ Before running the application, make sure you have:
 4. **Start the server:**
 
     ```bash
-    npm start
+    node index.js
     ```
 
 ### Usage

@@ -29,13 +29,13 @@ Before running the application, make sure you have:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/user-registration-web-app.git
+    git clone https://github.com/zeynepipekk/user_register.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd user-registration-web-app
+    cd user_register
     ```
 
 3. **Install dependencies:**

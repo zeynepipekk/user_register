@@ -35,7 +35,7 @@ Before running the application, make sure you have:
 2. **Navigate to the project directory:**
 
     ```bash
-    cd user_register
+    cd user_register/server
     ```
 
 3. **Install dependencies:**
